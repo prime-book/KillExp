@@ -1,4 +1,4 @@
-# KillExp
+# KillExp for Xbox
 
 A script for managing the `explorer.exe` process using hotkeys.
 
