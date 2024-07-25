@@ -1,9 +1,3 @@
-KillExp/
-├── KillExp.py
-├── requirements.txt
-├── Install.bat
-└── README.md
-
 # KillExp
 
 A script for managing the `explorer.exe` process using hotkeys.
